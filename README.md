@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Priyanshu-0021-spec
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me through email
+- 📫 priyanshuvatsa64@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
