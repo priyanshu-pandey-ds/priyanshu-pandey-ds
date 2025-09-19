@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on github
 - 📫 priyanshuvatsa64@gmail.com
-- 😄 Pronouns: ...
+- 😄 He/him
 - ⚡ Fun fact: ...
 
 <!---
